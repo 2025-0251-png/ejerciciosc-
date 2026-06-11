@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Identificador de estaciones del año por mes/1.0.0": {
+        "runtime": {
+          "Identificador de estaciones del año por mes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Identificador de estaciones del año por mes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

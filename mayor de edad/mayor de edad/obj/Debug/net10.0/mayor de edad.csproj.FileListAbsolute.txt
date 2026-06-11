@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\ejercicios\mayor de edad\mayor de edad\bin\Debug\net10.0\mayor de edad.exe
+C:\Users\User\Desktop\ejercicios\mayor de edad\mayor de edad\bin\Debug\net10.0\mayor de edad.deps.json
+C:\Users\User\Desktop\ejercicios\mayor de edad\mayor de edad\bin\Debug\net10.0\mayor de edad.runtimeconfig.json
+C:\Users\User\Desktop\ejercicios\mayor de edad\mayor de edad\bin\Debug\net10.0\mayor de edad.dll
+C:\Users\User\Desktop\ejercicios\mayor de edad\mayor de edad\bin\Debug\net10.0\mayor de edad.pdb
+C:\Users\User\Desktop\ejercicios\mayor de edad\mayor de edad\obj\Debug\net10.0\mayor de edad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ejercicios\mayor de edad\mayor de edad\obj\Debug\net10.0\mayor de edad.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ejercicios\mayor de edad\mayor de edad\obj\Debug\net10.0\mayor de edad.AssemblyInfo.cs
+C:\Users\User\Desktop\ejercicios\mayor de edad\mayor de edad\obj\Debug\net10.0\mayor de edad.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ejercicios\mayor de edad\mayor de edad\obj\Debug\net10.0\mayor de edad.dll
+C:\Users\User\Desktop\ejercicios\mayor de edad\mayor de edad\obj\Debug\net10.0\refint\mayor de edad.dll
+C:\Users\User\Desktop\ejercicios\mayor de edad\mayor de edad\obj\Debug\net10.0\mayor de edad.pdb
+C:\Users\User\Desktop\ejercicios\mayor de edad\mayor de edad\obj\Debug\net10.0\mayor de edad.genruntimeconfig.cache
+C:\Users\User\Desktop\ejercicios\mayor de edad\mayor de edad\obj\Debug\net10.0\ref\mayor de edad.dll

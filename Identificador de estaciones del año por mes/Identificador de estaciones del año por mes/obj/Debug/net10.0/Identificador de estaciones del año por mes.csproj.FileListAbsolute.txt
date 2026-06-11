@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\ejercicios\Identificador de estaciones del año por mes\Identificador de estaciones del año por mes\bin\Debug\net10.0\Identificador de estaciones del año por mes.exe
+C:\Users\User\Desktop\ejercicios\Identificador de estaciones del año por mes\Identificador de estaciones del año por mes\bin\Debug\net10.0\Identificador de estaciones del año por mes.deps.json
+C:\Users\User\Desktop\ejercicios\Identificador de estaciones del año por mes\Identificador de estaciones del año por mes\bin\Debug\net10.0\Identificador de estaciones del año por mes.runtimeconfig.json
+C:\Users\User\Desktop\ejercicios\Identificador de estaciones del año por mes\Identificador de estaciones del año por mes\bin\Debug\net10.0\Identificador de estaciones del año por mes.dll
+C:\Users\User\Desktop\ejercicios\Identificador de estaciones del año por mes\Identificador de estaciones del año por mes\bin\Debug\net10.0\Identificador de estaciones del año por mes.pdb
+C:\Users\User\Desktop\ejercicios\Identificador de estaciones del año por mes\Identificador de estaciones del año por mes\obj\Debug\net10.0\Identificador de estaciones del año por mes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ejercicios\Identificador de estaciones del año por mes\Identificador de estaciones del año por mes\obj\Debug\net10.0\Identificador de estaciones del año por mes.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ejercicios\Identificador de estaciones del año por mes\Identificador de estaciones del año por mes\obj\Debug\net10.0\Identificador de estaciones del año por mes.AssemblyInfo.cs
+C:\Users\User\Desktop\ejercicios\Identificador de estaciones del año por mes\Identificador de estaciones del año por mes\obj\Debug\net10.0\Identificador de estaciones del año por mes.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ejercicios\Identificador de estaciones del año por mes\Identificador de estaciones del año por mes\obj\Debug\net10.0\Identificador de estaciones del año por mes.dll
+C:\Users\User\Desktop\ejercicios\Identificador de estaciones del año por mes\Identificador de estaciones del año por mes\obj\Debug\net10.0\refint\Identificador de estaciones del año por mes.dll
+C:\Users\User\Desktop\ejercicios\Identificador de estaciones del año por mes\Identificador de estaciones del año por mes\obj\Debug\net10.0\Identificador de estaciones del año por mes.pdb
+C:\Users\User\Desktop\ejercicios\Identificador de estaciones del año por mes\Identificador de estaciones del año por mes\obj\Debug\net10.0\Identificador de estaciones del año por mes.genruntimeconfig.cache
+C:\Users\User\Desktop\ejercicios\Identificador de estaciones del año por mes\Identificador de estaciones del año por mes\obj\Debug\net10.0\ref\Identificador de estaciones del año por mes.dll
