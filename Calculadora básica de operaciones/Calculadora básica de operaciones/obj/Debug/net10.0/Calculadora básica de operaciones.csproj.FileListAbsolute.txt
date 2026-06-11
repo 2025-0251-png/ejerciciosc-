@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\ejercicios\Calculadora básica de operaciones\Calculadora básica de operaciones\bin\Debug\net10.0\Calculadora básica de operaciones.exe
+C:\Users\User\Desktop\ejercicios\Calculadora básica de operaciones\Calculadora básica de operaciones\bin\Debug\net10.0\Calculadora básica de operaciones.deps.json
+C:\Users\User\Desktop\ejercicios\Calculadora básica de operaciones\Calculadora básica de operaciones\bin\Debug\net10.0\Calculadora básica de operaciones.runtimeconfig.json
+C:\Users\User\Desktop\ejercicios\Calculadora básica de operaciones\Calculadora básica de operaciones\bin\Debug\net10.0\Calculadora básica de operaciones.dll
+C:\Users\User\Desktop\ejercicios\Calculadora básica de operaciones\Calculadora básica de operaciones\bin\Debug\net10.0\Calculadora básica de operaciones.pdb
+C:\Users\User\Desktop\ejercicios\Calculadora básica de operaciones\Calculadora básica de operaciones\obj\Debug\net10.0\Calculadora básica de operaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ejercicios\Calculadora básica de operaciones\Calculadora básica de operaciones\obj\Debug\net10.0\Calculadora básica de operaciones.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ejercicios\Calculadora básica de operaciones\Calculadora básica de operaciones\obj\Debug\net10.0\Calculadora básica de operaciones.AssemblyInfo.cs
+C:\Users\User\Desktop\ejercicios\Calculadora básica de operaciones\Calculadora básica de operaciones\obj\Debug\net10.0\Calculadora básica de operaciones.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ejercicios\Calculadora básica de operaciones\Calculadora básica de operaciones\obj\Debug\net10.0\Calculadora básica de operaciones.dll
+C:\Users\User\Desktop\ejercicios\Calculadora básica de operaciones\Calculadora básica de operaciones\obj\Debug\net10.0\refint\Calculadora básica de operaciones.dll
+C:\Users\User\Desktop\ejercicios\Calculadora básica de operaciones\Calculadora básica de operaciones\obj\Debug\net10.0\Calculadora básica de operaciones.pdb
+C:\Users\User\Desktop\ejercicios\Calculadora básica de operaciones\Calculadora básica de operaciones\obj\Debug\net10.0\Calculadora básica de operaciones.genruntimeconfig.cache
+C:\Users\User\Desktop\ejercicios\Calculadora básica de operaciones\Calculadora básica de operaciones\obj\Debug\net10.0\ref\Calculadora básica de operaciones.dll

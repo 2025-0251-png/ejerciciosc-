@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\cajero\cajero\bin\Debug\net10.0\cajero.exe
+C:\Users\User\source\repos\cajero\cajero\bin\Debug\net10.0\cajero.deps.json
+C:\Users\User\source\repos\cajero\cajero\bin\Debug\net10.0\cajero.runtimeconfig.json
+C:\Users\User\source\repos\cajero\cajero\bin\Debug\net10.0\cajero.dll
+C:\Users\User\source\repos\cajero\cajero\bin\Debug\net10.0\cajero.pdb
+C:\Users\User\source\repos\cajero\cajero\obj\Debug\net10.0\cajero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\cajero\cajero\obj\Debug\net10.0\cajero.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\cajero\cajero\obj\Debug\net10.0\cajero.AssemblyInfo.cs
+C:\Users\User\source\repos\cajero\cajero\obj\Debug\net10.0\cajero.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\cajero\cajero\obj\Debug\net10.0\cajero.dll
+C:\Users\User\source\repos\cajero\cajero\obj\Debug\net10.0\refint\cajero.dll
+C:\Users\User\source\repos\cajero\cajero\obj\Debug\net10.0\cajero.pdb
+C:\Users\User\source\repos\cajero\cajero\obj\Debug\net10.0\cajero.genruntimeconfig.cache
+C:\Users\User\source\repos\cajero\cajero\obj\Debug\net10.0\ref\cajero.dll
